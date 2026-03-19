@@ -4,23 +4,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   > Joao Gabriel _ aka JottaRamoss                   ║
-║   > Frontend Developer  |  Brasil 🇧🇷                ║
-║   > HTML • CSS • JavaScript — zero dependência       ║
-║   > Código puro. Resultado real.                     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=desenvolvedor+frontend+%F0%9F%9A%80;c%C3%B3digo+puro%2C+zero+framework+%F0%9F%94%A5;construindo+do+zero+pra+cima+%F0%9F%93%88;HTML+%2B+CSS+%2B+JS+%3D+tudo+que+preciso+%F0%9F%92%AA)](https://git.io/typing-svg)
@@ -40,9 +23,9 @@
 
 ## ▍sobre mim
 
-> Sou o João. Faço sites do zero — sem framework, sem biblioteca, sem muleta.  
-> HTML na estrutura. CSS no estilo. JavaScript na alma.  
-> Cada projeto é entregue, publicado e funcional.  
+> Sou o João. Faço sites do zero — sem framework, sem biblioteca, sem muleta.
+> HTML na estrutura. CSS no estilo. JavaScript na alma.
+> Cada projeto é entregue, publicado e funcional.
 > Tô crescendo todo dia. 📈
 
 ---
@@ -116,6 +99,6 @@ não preciso.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a3a5c,50:0d1b2a,100:000000&height=150&section=footer&fontSize=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a3a5c,50:0d1b2a,100:000000&height=150&section=footer" width="100%"/>
 
 </div>
