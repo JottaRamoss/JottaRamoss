@@ -50,19 +50,6 @@ const joao = {
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JottaRamoss&show_icons=true&theme=github_dark&hide_border=true&title_color=4fc3f7&icon_color=4fc3f7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JottaRamoss&layout=compact&theme=github_dark&hide_border=true&title_color=4fc3f7&text_color=c9d1d9&bg_color=0d1117&langs_count=5"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JottaRamoss&theme=github-dark-blue&hide_border=true&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7&background=0d1117&sideLabels=4fc3f7"/>
-</div>
-
----
-
 ## 📌 Projetos
 
 <div align="center">
@@ -76,20 +63,26 @@ const joao = {
 
 ---
 
-## 📈 Evolução
+## 📈 Atividade
 
-```
-2023  ████░░░░░░░░░░░░  primeiros projetos
-2024  ████████████░░░░  sites reais entregues
-2025  ████████████████  crescendo sem parar 🚀
-```
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JottaRamoss&bg_color=0d1117&color=4fc3f7&line=4fc3f7&point=ffffff&area_color=0d2137&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20de%20Joao%20Gabriel"/>
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=JottaRamoss&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=4"/>
+</div>
 
 ---
 
 <div align="center">
 
 > *"Não uso framework. Não preciso."*
-> 
+>
 > **— JottaRamoss**
 
 <br/>
