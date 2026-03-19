@@ -71,11 +71,7 @@ const joao = {
 
 ---
 
-## 🏆 Troféus
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JottaRamoss&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=4"/>
-</div>
 
 ---
 
